@@ -4,5 +4,5 @@ I'm Kaushi Chandraratna and I'm working currently as a full-stack software devel
 
 - 🔭 I’m currently working on my personal website
 - 🌱 I’m currently learning React
-- ⚡  Inspired by the cube rule, I developed [SA:V rule](https://kaushic.github.io/surfacearea-volume/)! 
+- ⚡  Inspired by the cube rule, I developed the [SA:V rule](https://kaushic.github.io/surfacearea-volume/)! 
 
